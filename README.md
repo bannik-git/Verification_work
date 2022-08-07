@@ -1,4 +1,4 @@
-# Проверочная работа студента [Gb.ru](Gb.ru)
+# Проверочная работа студента [Gb.ru](https://gb.ru/)
 
 [На русском языке](#ru) 
 
@@ -10,7 +10,7 @@
 
 ## 1. Цели
 
-### 1.1. Создать репозиторий на [GitHub.com](GitHub.com)
+### 1.1. Создать репозиторий на [GitHub.com](https://github.com/)
 ### 1.2. Нарисовать блок-схему алоритма (можно обойтись блок-схемой основной содертажетльной части, если Вы выделяете ее в отдельный метод)
 ### 1.3. Снабдить репозиторий оформленным текстовым описанием решения (Файл README.md)
 ### 1.4. Написать программу, решающую поставленную задачу
@@ -26,10 +26,10 @@
 
 <a name ="En"></a>
 
-# Student test paper [Gb.ru](Gb.ru)
+# Student test paper [Gb.ru](https://gb.ru/)
 
 ## 1. Target
-### 1.1. Create repository on [GitHub.com](GitHub.com)
+### 1.1. Create repository on [GitHub.com](https://github.com/)
 ### 1.2. Draw a block diagram of the algorithm (you can get by with a block diagram of the main content part if you separate it into a separate method)
 ### 1.3. Provide the repository with a formatted text description of the solution (File README.md)
 ### 1.4. Write a program that solves the problem
